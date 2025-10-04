@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @rimTEK
-- 👀 I’m interested in ...
 - like and sub
 
 <!---
